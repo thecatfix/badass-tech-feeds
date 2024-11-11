@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/jakub-m/htmlquery v0.2.0
 	github.com/stretchr/testify v1.8.2
-	golang.org/x/net v0.0.0-20210825183410-e898025ed96a
+	golang.org/x/net v0.23.0
 )
 
 require (
